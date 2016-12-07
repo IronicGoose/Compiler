@@ -1,0 +1,9 @@
+c:\users\chenzhida\documents\visual studio 2015\Projects\WindowsFormsBYQ\WindowsFormsBYQ\bin\Debug\WindowsFormsBYQ.exe.config
+c:\users\chenzhida\documents\visual studio 2015\Projects\WindowsFormsBYQ\WindowsFormsBYQ\bin\Debug\WindowsFormsBYQ.exe
+c:\users\chenzhida\documents\visual studio 2015\Projects\WindowsFormsBYQ\WindowsFormsBYQ\bin\Debug\WindowsFormsBYQ.pdb
+c:\users\chenzhida\documents\visual studio 2015\Projects\WindowsFormsBYQ\WindowsFormsBYQ\obj\Debug\WindowsFormsBYQ.csprojResolveAssemblyReference.cache
+c:\users\chenzhida\documents\visual studio 2015\Projects\WindowsFormsBYQ\WindowsFormsBYQ\obj\Debug\WindowsFormsBYQ.Properties.Resources.resources
+c:\users\chenzhida\documents\visual studio 2015\Projects\WindowsFormsBYQ\WindowsFormsBYQ\obj\Debug\WindowsFormsBYQ.csproj.GenerateResource.Cache
+c:\users\chenzhida\documents\visual studio 2015\Projects\WindowsFormsBYQ\WindowsFormsBYQ\obj\Debug\WindowsFormsBYQ.exe
+c:\users\chenzhida\documents\visual studio 2015\Projects\WindowsFormsBYQ\WindowsFormsBYQ\obj\Debug\WindowsFormsBYQ.pdb
+c:\users\chenzhida\documents\visual studio 2015\Projects\WindowsFormsBYQ\WindowsFormsBYQ\obj\Debug\WindowsFormsBYQ.Form1.resources
